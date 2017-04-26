@@ -1,1 +1,0 @@
-/home/ricky/AndroidStudioProjects/JustTheTip/gradlew.bat
