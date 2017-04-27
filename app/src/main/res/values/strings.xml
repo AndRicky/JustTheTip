@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JustTheTip</string>
+    <string name="totalbeforetax">Total before tax</string>
+    <string name="totalaftertax">Total after tax</string>
+    <string name="tax">Tax</string>
+    <string name="tip">Tip</string>
 </resources>
