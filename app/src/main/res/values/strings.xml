@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">JustTheTip</string>
     <string name="totalbeforetax">Total before tax</string>
-    <string name="totalaftertax">Total after tax</string>
+    <string name="totalaftertax">Total after tax before tip</string>
     <string name="tax">Tax</string>
     <string name="tip">Tip</string>
-    <string name="total">Total:</string>
+    <string name="total">Total after tax and tip:</string>
     <string name="justtip">Just Tip:</string>
     <string name="calculatebutton">Calculate</string>
 </resources>
